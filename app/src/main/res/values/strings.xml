@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 <resources>
-    <string name="app_name">Android i2c Bus Scan</string>
+    <string name="app_name">Dirty i2c Bus Scan</string>
     <string name="bus_found">i2c Bus:</string>
     <string name="address_found">Device Found Address:</string>
     <string name="address_not_found">Checked Addresses:</string>
